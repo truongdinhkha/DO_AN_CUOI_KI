@@ -1,0 +1,31 @@
+D:\Users\Dong\Documents\Visual Studio 2017\Projects\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.csprojAssemblyReference.cache
+D:\Users\Dong\Documents\Visual Studio 2017\Projects\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.Form1.resources
+D:\Users\Dong\Documents\Visual Studio 2017\Projects\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.Properties.Resources.resources
+D:\Users\Dong\Documents\Visual Studio 2017\Projects\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.csproj.GenerateResource.cache
+D:\Users\Dong\Documents\Visual Studio 2017\Projects\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.csproj.CoreCompileInputs.cache
+D:\Users\Dong\Documents\Visual Studio 2017\Projects\DemoPlayFair\DemoPlayFair\bin\Debug\DemoPlayFair.exe.config
+D:\Users\Dong\Documents\Visual Studio 2017\Projects\DemoPlayFair\DemoPlayFair\bin\Debug\DemoPlayFair.exe
+D:\Users\Dong\Documents\Visual Studio 2017\Projects\DemoPlayFair\DemoPlayFair\bin\Debug\DemoPlayFair.pdb
+D:\Users\Dong\Documents\Visual Studio 2017\Projects\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.exe
+D:\Users\Dong\Documents\Visual Studio 2017\Projects\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.pdb
+D:\Users\Dong\Desktop\DemoPlayFair\DemoPlayFair\bin\Debug\DemoPlayFair.exe.config
+D:\Users\Dong\Desktop\DemoPlayFair\DemoPlayFair\bin\Debug\DemoPlayFair.exe
+D:\Users\Dong\Desktop\DemoPlayFair\DemoPlayFair\bin\Debug\DemoPlayFair.pdb
+D:\Users\Dong\Desktop\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.csprojAssemblyReference.cache
+D:\Users\Dong\Desktop\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.Form1.resources
+D:\Users\Dong\Desktop\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.Properties.Resources.resources
+D:\Users\Dong\Desktop\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.csproj.GenerateResource.cache
+D:\Users\Dong\Desktop\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.csproj.CoreCompileInputs.cache
+D:\Users\Dong\Desktop\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.exe
+D:\Users\Dong\Desktop\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.pdb
+C:\Users\dinh kha\Downloads\Demo-PlayFair\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.csproj.AssemblyReference.cache
+C:\Users\dinh kha\Downloads\Demo-PlayFair\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.csproj.SuggestedBindingRedirects.cache
+C:\Users\dinh kha\Downloads\Demo-PlayFair\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.exe
+C:\Users\dinh kha\Downloads\Demo-PlayFair\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.pdb
+C:\Users\dinh kha\Downloads\Demo-PlayFair\DemoPlayFair\DemoPlayFair\bin\Debug\DemoPlayFair.exe.config
+C:\Users\dinh kha\Downloads\Demo-PlayFair\DemoPlayFair\DemoPlayFair\bin\Debug\DemoPlayFair.exe
+C:\Users\dinh kha\Downloads\Demo-PlayFair\DemoPlayFair\DemoPlayFair\bin\Debug\DemoPlayFair.pdb
+C:\Users\dinh kha\Downloads\Demo-PlayFair\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.Form1.resources
+C:\Users\dinh kha\Downloads\Demo-PlayFair\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.Properties.Resources.resources
+C:\Users\dinh kha\Downloads\Demo-PlayFair\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.csproj.GenerateResource.cache
+C:\Users\dinh kha\Downloads\Demo-PlayFair\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.csproj.CoreCompileInputs.cache
